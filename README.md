@@ -1,5 +1,11 @@
 # Practical AI Bootcamp
 
+## Reference
+
+### Online course
+
+[Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 ## Troubleshooting
 
 #### For macOS, matplotlib problem
