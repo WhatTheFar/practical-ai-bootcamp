@@ -1,5 +1,20 @@
 # Practical AI Bootcamp
 
+## Table of Contents
+
+- Day9
+  - Support Vector Machine (SVM), Kernals
+  - Similarity
+  - Unsupervised Learning
+    - K-means Clustering
+  - Dimentionality Reduction
+    - Principal Components Analysis (PCA)
+  - Techniques for Dealing with Large Datasets
+- Day10
+  - SVM Lab
+  - K-means Clustering Lab
+  - PCA Lab
+
 ## Reference
 
 ### Online course
